@@ -7,15 +7,21 @@ This project contains the session 7 assignment on closures . This assignment con
     A closure is a nested function which has access to a free variable from an enclosing function that has finished its execution. Three characteristics of a Python closure are: it is a nested function. it has access to a free variable in outer scope. it is returned from the enclosing function
 
 ### Table of Contents
-----EPAI3.0_session7
-    |
-    |---.github
-    |       |---workflow
+EPAI3.0_session7    
+    |---.github 
+
+    |       |---workflow    
+
     |              |---ci.yml
+
     |
+    
     |---.gitignore
+
     |---requirements.txt
+
     |---session7.py
+
     |---test_session7.py
 
 
