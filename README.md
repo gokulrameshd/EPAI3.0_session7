@@ -9,19 +9,18 @@ This project contains the session 7 assignment on closures . This assignment con
 ### Table of Contents
 EPAI3.0_session7    
     |---.github 
-
+    |       |
     |       |---workflow    
-
-    |              |---ci.yml
-
+    |               |
+    |               |---ci.yml
     |
-    
+    |
     |---.gitignore
-
+    |
     |---requirements.txt
-
+    |
     |---session7.py
-
+    |
     |---test_session7.py
 
 
